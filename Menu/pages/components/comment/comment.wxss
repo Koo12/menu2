@@ -1,0 +1,42 @@
+/* pages/components/Comment/comment.wxss */
+
+.table{
+    padding: 40px 0px 0px 30px;
+    font-family: "微软雅黑";
+}
+.table-num{
+    font-size: 16px;
+    margin-top: 4px;
+    float: left;
+}
+.table-input{
+    width: 50px;
+    height: 25px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 25px;
+    font-size: 14px;
+}
+.tabnum {
+    color: red;
+    margin-left: 30rpx;
+}
+.beizhu{
+    font-family: "微软雅黑";
+    padding: 30px 40px 40px 30px;
+    border-bottom: 1px solid #aaa;
+}
+.beizhu-txt{
+    margin-top: 4px;
+    margin-right: 20px;
+    font-size: 16px;
+    /*float: left;*/
+}
+.beizhu-input{
+    width: 100%;
+    height: 200rpx;
+    border: 1px solid #ccc;
+    font-size: 14px;
+}

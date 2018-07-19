@@ -1,0 +1,14 @@
+<view>
+  <view class="table">
+    <view class="table-num">已选菜品:
+      <text class="tabnum">{{name}}</text>
+    </view>
+  </view>
+
+  <view class="beizhu">
+    <view class="beizhu-txt">评论</view>
+    <textarea class="beizhu-input"  placeholder=""/> 
+  </view>
+</view>
+
+<!-- <loading hidden="{{hidden}}">玩命加载中…</loading>-->

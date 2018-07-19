@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/components/dishes/dishes",
+    "pages/components/Gym/Gym",
+    "pages/components/comment/comment"
+  ],
+  "window":{
+    "backgroundColor":"#fff",
+    "navigationBarBackgroundColor": "black",
+    "navigationBarTitleText": "东大食堂",
+    "navigationBarTextStyle":"black"
+  }
+}
